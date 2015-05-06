@@ -1,6 +1,6 @@
 # datasciencecoursera
 Tim's Data Science Coursera Repo
 ## This is a markdown file
-*good 
-*bad
-*test
+li good 
+li bad
+li test
